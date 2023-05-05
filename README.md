@@ -8,7 +8,7 @@ Me apasiona la bioinformática y la forma en que se puede utilizar la informáti
 
 ## Algoritmos y matemáticas 🧮
 
-Soy un apasionado de la matemáticas y los algoritmos, y me encanta diseñar y desarrollar algoritmos eficientes y elegantes para resolver problemas matemáticos y computacionales. Me gusta estar al día con los últimos avances en el campo de la teoría de algoritmos, y estoy interesado/a en explorar nuevas áreas, como la computación cuántica.
+Soy un apasionado de la matemáticas y los algoritmos, y me encanta diseñar y desarrollar algoritmos eficientes y elegantes para resolver problemas matemáticos y computacionales. Me gusta estar al día con los últimos avances en el campo de la teoría de algoritmos, y estoy interesado en explorar nuevas áreas, como la computación cuántica.
 
 ## Administración de sistemas 🔧
 
@@ -17,7 +17,7 @@ PD: ¡Soy un enreda con Linux!
 
 ## Investigación espacial 🚀
 
-Otro de mis intereses es la exploración espacial, y estoy fascinado/a por todo lo relacionado con la investigación y el desarrollo de tecnología espacial. Me gusta aprender sobre la física del espacio, la ingeniería espacial y las misiones espaciales, y estoy interesado en trabajar en proyectos relacionados con la investigación espacial en el futuro.
+Otro de mis intereses es la exploración espacial, y estoy fascinado por todo lo relacionado con la investigación y el desarrollo de tecnología espacial. Me gusta aprender sobre la física del espacio, la ingeniería espacial y las misiones espaciales, y estoy interesado en trabajar en proyectos relacionados con la investigación espacial en el futuro.
 
 ## Ciencia de datos 📊
 
