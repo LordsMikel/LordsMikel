@@ -4,11 +4,11 @@
 
 ## Bioinformática 🧬
 
-Me apasiona la bioinformática y la forma en que se puede utilizar la informática para analizar y procesar grandes cantidades de datos biológicos. Estoy interesado/a en aprender más sobre el análisis de secuencias de ADN y ARN, así como en el diseño de algoritmos para el procesamiento y análisis de datos biológicos.
+Me apasiona la bioinformática y la forma en que se puede utilizar la informática para analizar y procesar grandes cantidades de datos biológicos. Estoy interesado en aprender más sobre el análisis de secuencias de ADN y ARN, así como en el diseño de algoritmos para el procesamiento y análisis de datos biológicos.
 
 ## Algoritmos y matemáticas 🧮
 
-Soy un/a apasionado/a de la matemática y los algoritmos, y me encanta diseñar y desarrollar algoritmos eficientes y elegantes para resolver problemas matemáticos y computacionales. Me gusta estar al día con los últimos avances en el campo de la teoría de algoritmos, y estoy interesado/a en explorar nuevas áreas, como la computación cuántica.
+Soy un apasionado de la matemáticas y los algoritmos, y me encanta diseñar y desarrollar algoritmos eficientes y elegantes para resolver problemas matemáticos y computacionales. Me gusta estar al día con los últimos avances en el campo de la teoría de algoritmos, y estoy interesado/a en explorar nuevas áreas, como la computación cuántica.
 
 ## Administración de sistemas 🔧
 
@@ -17,7 +17,7 @@ PD: ¡Soy un enreda con Linux!
 
 ## Investigación espacial 🚀
 
-Otro de mis intereses es la exploración espacial, y estoy fascinado/a por todo lo relacionado con la investigación y el desarrollo de tecnología espacial. Me gusta aprender sobre la física del espacio, la ingeniería espacial y las misiones espaciales, y estoy interesado/a en trabajar en proyectos relacionados con la investigación espacial en el futuro.
+Otro de mis intereses es la exploración espacial, y estoy fascinado/a por todo lo relacionado con la investigación y el desarrollo de tecnología espacial. Me gusta aprender sobre la física del espacio, la ingeniería espacial y las misiones espaciales, y estoy interesado en trabajar en proyectos relacionados con la investigación espacial en el futuro.
 
 ## Ciencia de datos 📊
 
@@ -26,7 +26,7 @@ La ciencia de datos es otro de mis intereses principales, y me gusta trabajar co
 
 ## Proyectos actuales 🚀
 
-Actualmente, me encuentro involucrado/a en  proyectos muy interesantes. 
+Actualmente, me encuentro involucrado en  proyectos muy interesantes. 
 El primero es una charla sobre computación voluntaria, en la que busco concientizar sobre la importancia de la contribución voluntaria de recursos computacionales para el avance de proyectos de investigación en áreas como la medicina, la astronomía, la biología y la física.
 
 
