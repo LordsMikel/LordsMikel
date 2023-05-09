@@ -34,6 +34,10 @@ El segundo es un proyecto de clasificación de imagenes todavía en desarrollo �
 ¡Gracias por leer sobre mis intereses y proyectos! Si estás interesado/a en alguno de estos temas o simplemente quieres charlar sobre tecnología, no dudes en contactarme en mi [Linkedin](https://www.linkedin.com/in/miguel-medina-cantos-b72a49258/).
 
 
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LordsMikel&show_icons=true&theme=radical)
+
+
+
 
 
 
