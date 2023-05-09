@@ -37,6 +37,7 @@ El segundo es un proyecto de clasificación de imagenes todavía en desarrollo �
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LordsMikel&show_icons=true&theme=radical)
 
 
+![Mis lenguajes de programación más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=LordsMikel&layout=compact&theme=radical)
 
 
 
