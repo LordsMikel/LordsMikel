@@ -28,6 +28,7 @@ La ciencia de datos es otro de mis intereses principales, y me gusta trabajar co
 
 Actualmente, me encuentro involucrado en  proyectos muy interesantes. 
 El primero es una charla sobre computación voluntaria, en la que busco concientizar sobre la importancia de la contribución voluntaria de recursos computacionales para el avance de proyectos de investigación en áreas como la medicina, la astronomía, la biología y la física.
+El segundo es un proyecto de clasificación de imagenes todavía en desarrollo ⚠️.
 
 
 ¡Gracias por leer sobre mis intereses y proyectos! Si estás interesado/a en alguno de estos temas o simplemente quieres charlar sobre tecnología, no dudes en contactarme en mi [Linkedin](https://www.linkedin.com/in/miguel-medina-cantos-b72a49258/).
