@@ -1,6 +1,6 @@
 # ¡Hola! 👋 
 
-¡Bienvenido/a a mi perfil! Me llamo [Miguel] soy un estudiante de cuarto año de ingenería informática, y aquí te contaré un poco sobre mis intereses y áreas de conocimiento.
+¡Bienvenido/a a mi perfil! Me llamo [Miguel] soy un ingeniero informático, y aquí te contaré un poco sobre mis intereses y áreas de conocimiento.
 
 ## Bioinformática 🧬
 
