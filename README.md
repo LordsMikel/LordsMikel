@@ -1,46 +1,36 @@
-# ¡Hola! 👋 
+# Hello! 👋 
 
-¡Bienvenido/a a mi perfil! Me llamo [Miguel] soy un ingeniero informático, y aquí te contaré un poco sobre mis intereses y áreas de conocimiento.
+Welcome to my profile! My name is [Miguel], and I am a computer engineer. Here, I'll share a bit about my interests and areas of expertise.
 
-## Bioinformática 🧬
+## Bioinformatics 🧬
 
-Me apasiona la bioinformática y la forma en que se puede utilizar la informática para analizar y procesar grandes cantidades de datos biológicos. Estoy interesado en aprender más sobre el análisis de secuencias de ADN y ARN, así como en el diseño de algoritmos para el procesamiento y análisis de datos biológicos.
+I am passionate about bioinformatics and how computing can be used to analyze and process large amounts of biological data. I am interested in learning more about DNA and RNA sequence analysis, as well as designing algorithms for the processing and analysis of biological data.
 
-## Algoritmos y matemáticas 🧮
+## Algorithms and Mathematics 🧮
 
-Soy un apasionado de la matemáticas y los algoritmos, y me encanta diseñar y desarrollar algoritmos eficientes y elegantes para resolver problemas matemáticos y computacionales. Me gusta estar al día con los últimos avances en el campo de la teoría de algoritmos, y estoy interesado en explorar nuevas áreas, como la computación cuántica.
+I am enthusiastic about mathematics and algorithms, and I love designing and developing efficient and elegant algorithms to solve mathematical and computational problems. I enjoy keeping up with the latest advances in algorithm theory and am interested in exploring new areas such as quantum computing.
 
-## Administración de sistemas 🔧
+## Systems Administration 🔧
 
-La administración de sistemas es otra de mis grandes pasiones, y me encanta trabajar en la gestión de infraestructuras y redes de sistemas. Me gusta estar al día con las últimas tendencias en el campo de la administración de sistemas, y disfruto de los desafíos técnicos que presenta esta área.
-PD: ¡Soy un enreda con Linux!
+Systems administration is another of my great passions, and I love working on the management of system infrastructures and networks. I enjoy staying up to date with the latest trends in systems administration and relish the technical challenges this area presents.
+P.S.: I'm a Linux enthusiast!
 
-## Investigación espacial 🚀
+## Space Research 🚀
 
-Otro de mis intereses es la exploración espacial, y estoy fascinado por todo lo relacionado con la investigación y el desarrollo de tecnología espacial. Me gusta aprender sobre la física del espacio, la ingeniería espacial y las misiones espaciales, y estoy interesado en trabajar en proyectos relacionados con la investigación espacial en el futuro.
+Another interest of mine is space exploration, and I am fascinated by everything related to space research and technology development. I enjoy learning about space physics, space engineering, and space missions, and I am interested in working on projects related to space research in the future.
 
-## Ciencia de datos 📊
+## Data Science 📊
 
-La ciencia de datos es otro de mis intereses principales, y me gusta trabajar con grandes conjuntos de datos para encontrar patrones y tendencias que puedan ayudar a la toma de decisiones. Me interesa especialmente el aprendizaje automático y la inteligencia artificial, y me gusta explorar nuevas técnicas y herramientas para el análisis de datos ¡Aunque odio a veces los .csv! Si sabes de lo que estoy hablando 😅.
+Data science is another of my main interests, and I enjoy working with large datasets to find patterns and trends that can aid decision-making. I am particularly interested in machine learning and artificial intelligence, and I like exploring new techniques and tools for data analysis. Although sometimes I hate .csv files! If you know what I mean 😅.
 
+## Current Projects 🚀
 
-## Proyectos actuales 🚀
+Currently, I am involved in some very interesting projects. 
+The first is a talk on volunteer computing, where I aim to raise awareness about the importance of voluntarily contributing computing resources to advance research projects in fields such as medicine, astronomy, biology, and physics.
+The second is an image classification project still under development ⚠️.
 
-Actualmente, me encuentro involucrado en  proyectos muy interesantes. 
-El primero es una charla sobre computación voluntaria, en la que busco concientizar sobre la importancia de la contribución voluntaria de recursos computacionales para el avance de proyectos de investigación en áreas como la medicina, la astronomía, la biología y la física.
-El segundo es un proyecto de clasificación de imagenes todavía en desarrollo ⚠️.
+Thank you for reading about my interests and projects! If you are interested in any of these topics or just want to chat about technology, feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/miguel-medina-cantos-b72a49258/).
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordsMikel&show_icons=true&theme=radical)
 
-¡Gracias por leer sobre mis intereses y proyectos! Si estás interesado/a en alguno de estos temas o simplemente quieres charlar sobre tecnología, no dudes en contactarme en mi [Linkedin](https://www.linkedin.com/in/miguel-medina-cantos-b72a49258/).
-
-
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LordsMikel&show_icons=true&theme=radical)
-
-
-![Mis lenguajes de programación más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=LordsMikel&layout=compact&theme=radical)
-
-
-
-
-
-
+![My Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordsMikel&layout=compact&theme=radical)
